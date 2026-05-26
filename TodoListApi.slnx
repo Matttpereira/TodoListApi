@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TodoListApi.Testes/TodoListApi.Testes.csproj" Id="a5c93f10-8f74-492d-a4b2-1b9fddea4f3a" />
+  <Project Path="TodoListApi/TodoListApi.csproj" />
+</Solution>
