@@ -30,7 +30,10 @@ No arquivo `appsettings.json`, verifique a string de conexão:
 ```
 
 ### 3. Criar o banco de dados
-No terminal, dentro da pasta TodoListApi: dotnet ef database update
+No terminal, dentro da pasta TodoListApi: 
+```
+dotnet ef database update
+```
 
 ### 4. Executar o projeto
 Abra no Visual Studio 2022 e pressione F5.
