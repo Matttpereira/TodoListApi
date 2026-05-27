@@ -1,4 +1,4 @@
-# TodoList API
+# ToDoList API
 
 API REST para gerenciamento de tarefas (To Do List) desenvolvida em C# com ASP.NET Core.
 
